@@ -2,4 +2,10 @@
   <Folder Name="/src/">
     <Project Path="ToDoAPI/ToDoAPI.csproj" />
   </Folder>
+  <Folder Name="/src/Application/" />
+  <Folder Name="/src/Domain/" />
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="ToDo.Infrastructure/ToDo.Infrastructure.csproj" Id="be1b87ee-b824-49d7-83da-c8adb0be04c1" />
+  </Folder>
+  <Folder Name="/src/Presentation/" />
 </Solution>
